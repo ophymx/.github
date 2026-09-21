@@ -56,6 +56,7 @@ source for now.
 | --- | --- |
 | [odradek](https://github.com/ophymx/odradek) | Kafka-protocol Rust crates: sans-I/O protocol, client, conformance suite, web bridges |
 | [saltator](https://github.com/ophymx/saltator) | Self-clustering Matrix homeserver in Rust — native HA, no external database |
+| [pg-agent-rs](https://github.com/ophymx/pg-agent-rs) | High-availability agent for PostgreSQL behind pgpool-II — promotion is a compare-and-swap on a Raft lease, no external DCS |
 
 ### Hardware
 
